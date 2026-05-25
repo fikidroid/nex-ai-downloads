@@ -1,14 +1,34 @@
-# NEX AI
+# NEX AI — Public Releases
 
 Public release distribution for **NEX AI** — an AI-powered audio visualizer,
 video loop generator, and live streaming engine for Windows and macOS.
 
-Visit [**nexai-studio.vercel.app**](https://nexai-studio.vercel.app) for
-downloads, documentation, and changelogs.
+> 🌐 **Website:** [nexai-studio.vercel.app](https://nexai-studio.vercel.app)  
+> 📦 **Latest release:** [Download here](../../releases/latest)  
+> 🐙 **Releases archive:** [All versions](../../releases)
 
 This repository hosts the public release artifacts (`.exe`, `.dmg`) under
 the [Releases](../../releases) tab. The application source code is maintained
 in a separate, private repository.
+
+---
+
+## Platform Requirements
+
+- **Windows:** Windows 10 or 11 (64-bit)
+- **macOS:** macOS 12 Monterey or later
+  - Apple Silicon (M1 / M2 / M3 / M4)
+  - Intel (2015–2020)
+
+---
+
+## Support
+
+For installation help, licensing questions, or feature requests, please visit
+[nexai-studio.vercel.app](https://nexai-studio.vercel.app).
+
+For bug reports relating to a specific release, you may open an issue in this
+repository referencing the affected version.
 
 ---
 
